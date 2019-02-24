@@ -1,0 +1,11 @@
+/*@media screen and (-webkit-min-device-pixel-ratio:0) {*/
+@font-face {
+    font-family: 'Helvetica Neue,Helvetica,Arial,sans-serif';
+    /*src: url('../fonts/ofont.ru_Century Gothic.ttf');*/
+	src: url("../fonts/arial.ttf")format("truetype"),
+			url("../fonts/arial.woff")format("woff"),
+			url("../fonts/arial.eot?i#iefix")format("embedded-opentype"),
+			url("../fonts/arial.svg#svgarial")format("svg"),
+			url("../fonts/arial.woff2")format("woff2")
+			;
+}
